@@ -1,6 +1,5 @@
 # Gesture-Camera
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=huAwIiayP8k)
+![image](https://github.com/user-attachments/assets/1557c4da-fc9e-44f6-a082-36e77b42ddd6)
 
 # Inspiration
 Our main inspiration was the danger of subway systems. Subways crimes are drastically increasing every year; one of the most used transportation systems is becoming unsafe. With the common occurrence of these crimes, the subway systems brought our incentive to improve the safety of its customers.
@@ -21,3 +20,6 @@ However, after realising that subway crimes were scarce except in New York, we d
 With the use of python and mediapipe, we were able to make computers easily recognize the difference with each hand movement and distinguish the one in need.
 
 Mediapipe was used to track hand movements. Python was used for coding the corresponding text, sending ‘Help!!!’ to the police, and taking a screenshot of the victim's current state of making the hand gesture.
+
+[![Check It Out]()](https://www.youtube.com/watch?v=huAwIiayP8k)
+
