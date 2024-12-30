@@ -21,5 +21,5 @@ With the use of python and mediapipe, we were able to make computers easily reco
 
 Mediapipe was used to track hand movements. Python was used for coding the corresponding text, sending ‘Help!!!’ to the police, and taking a screenshot of the victim's current state of making the hand gesture.
 
-[![Pitch](https://www.youtube.com/watch?v=huAwIiayP8k)
+
 
