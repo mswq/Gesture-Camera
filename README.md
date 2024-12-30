@@ -1,5 +1,8 @@
 # Gesture-Camera
-https://www.youtube.com/watch?v=huAwIiayP8k
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=huAwIiayP8k" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 # Inspiration
 Our main inspiration was the danger of subway systems. Subways crimes are drastically increasing every year; one of the most used transportation systems is becoming unsafe. With the common occurrence of these crimes, the subway systems brought our incentive to improve the safety of its customers.
